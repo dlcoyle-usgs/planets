@@ -1,2 +1,4 @@
 # planets
-The planets
+The planets are a very interesting topic for discussion and thought.
+
+In the past, planets and stars were thought to rule the the ways that people and fate and the world operated or at least were influenced. 
